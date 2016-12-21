@@ -1,0 +1,5 @@
+param c1 := 10;
+param c2 := 6;
+param a1 := 2;
+param a2 := 1;
+param A := 500;
